@@ -9,9 +9,9 @@
   --figma-button-primary-active-shadow: #064e3b;
   --figma-button-primary-focus-outline: #f9fafb;
   --figma-button-primary-disabled-background: #065f46;
-  --figma-button-outline-background: rgba(0, 0, 0, 0);
+  --figma-button-outline-background: rgba(0,0,0,0);
   --figma-button-outline-border-color: #f9fafb;
-  --figma-button-outline-hover-background: rgba(255, 255, 255, 0.1);
+  --figma-button-outline-hover-background: rgba(255,255,255,0.1);
   --figma-core-colors-primary-50: #ecfdf5;
   --figma-core-colors-primary-100: #d1fae5;
   --figma-core-colors-primary-200: #a7f3d0;

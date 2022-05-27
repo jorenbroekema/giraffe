@@ -1,15 +1,3 @@
-/** 
-  --figma-button-primary-background: #10b981;
-  --figma-button-primary-color: #f9fafb;
-  --figma-button-primary-hover-background: #34d399;
-  --figma-button-primary-active-shadow: #064e3b;
-  --figma-button-primary-focus-outline: #f9fafb;
-  --figma-button-primary-disabled-background: #065f46;
-  --figma-button-outline-background: rgba(0,0,0,0);
-  --figma-button-outline-border-color: #f9fafb;
-  --figma-button-outline-hover-background: rgba(255,255,255,0.1);
-*/
-
 .btn {
   background-color: var(--figma-button-primary-background);
   padding: 0.5rem 1.5rem;

@@ -102,7 +102,7 @@
         },
         "hover": {
           "background": {
-            "value": "{core.colors.primary.400}",
+            "value": "{core.colors.primary.600}",
             "type": "color"
           }
         },

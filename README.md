@@ -1,2 +1,0 @@
-# giraffe
-Giraffe Design System

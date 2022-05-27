@@ -1,10 +1,25 @@
 {
-  "packages": {
-    "dir": "",
-    "menu": [
-      ["TOKENS", ["tokens"]],
-      ["COMPONENTS", []],
-      ["INFRASTRUCTURE", ["sd-input"]]
+ "packages": {
+  "dir": "",
+  "menu": [
+   [
+    "TOKENS",
+    [
+     "tokens"
     ]
-  }
+   ],
+   [
+    "COMPONENTS",
+    [
+     "button"
+    ]
+   ],
+   [
+    "INFRASTRUCTURE",
+    [
+     "sd-input"
+    ]
+   ]
+  ]
+ }
 }
